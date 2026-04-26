@@ -1,0 +1,48 @@
+2026-04-26 16:43:21,514 - Starting test
+2026-04-26 16:43:22,348 - Logged in
+2026-04-26 16:43:22,597 - Item added to cart
+2026-04-26 16:43:22,920 - Screenshot taken
+2026-04-26 16:43:52,797 - Starting test
+2026-04-26 16:43:53,572 - Logged in
+2026-04-26 16:43:53,776 - Item added to cart
+2026-04-26 16:43:54,021 - Screenshot taken
+2026-04-26 16:53:07,160 - INFO - Test started
+2026-04-26 16:53:08,095 - INFO - Logged in
+2026-04-26 16:53:10,290 - INFO - Item added to cart
+2026-04-26 16:53:12,451 - INFO - Navigated to cart
+2026-04-26 16:53:14,630 - INFO - Screenshot captured
+2026-04-26 16:55:46,691 - INFO - Test started
+2026-04-26 16:55:47,355 - INFO - Logged in
+2026-04-26 16:55:49,547 - INFO - Item added to cart
+2026-04-26 16:55:51,790 - INFO - Navigated to cart
+2026-04-26 16:55:53,905 - INFO - Screenshot captured
+2026-04-26 16:56:09,948 - INFO - Test started
+2026-04-26 16:56:10,556 - INFO - Logged in
+2026-04-26 16:56:12,805 - INFO - Item added to cart
+2026-04-26 16:56:15,000 - INFO - Navigated to cart
+2026-04-26 16:56:17,100 - INFO - Screenshot captured
+2026-04-26 16:58:54,015 - INFO - Test started
+2026-04-26 16:58:56,085 - INFO - Logged in
+2026-04-26 16:58:58,782 - INFO - Item added to cart
+2026-04-26 16:59:01,127 - INFO - Navigated to cart
+2026-04-26 16:59:03,223 - INFO - Screenshot captured
+2026-04-26 17:00:26,127 - INFO - Test started
+2026-04-26 17:00:26,797 - INFO - Logged in
+2026-04-26 17:00:28,999 - INFO - Item added to cart
+2026-04-26 17:00:31,191 - INFO - Navigated to cart
+2026-04-26 17:00:33,299 - INFO - Screenshot captured
+2026-04-26 17:10:57,248 - INFO - Test started
+2026-04-26 17:10:58,000 - INFO - Logged in
+2026-04-26 17:11:00,022 - INFO - Login assertion passed
+2026-04-26 17:11:00,251 - INFO - Item added
+2026-04-26 17:11:02,459 - INFO - Navigated to cart
+2026-04-26 17:11:04,472 - INFO - Cart assertion passed
+2026-04-26 17:11:04,662 - ERROR - Test failed: 'InventoryPage' object has no attribute 'logout'
+2026-04-26 17:13:07,128 - INFO - Test started
+2026-04-26 17:13:07,899 - INFO - Logged in
+2026-04-26 17:13:09,917 - INFO - Login assertion passed
+2026-04-26 17:13:10,214 - INFO - Item added
+2026-04-26 17:13:12,415 - INFO - Navigated to cart
+2026-04-26 17:13:14,428 - INFO - Cart assertion passed
+2026-04-26 17:13:15,522 - INFO - Logged out
+2026-04-26 17:13:17,575 - INFO - Logout assertion passed
